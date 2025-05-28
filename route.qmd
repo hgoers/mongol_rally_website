@@ -8,3 +8,12 @@ format:
 
 # THE ROUTE {style="text-align: center"}
 
+![](img/route.png){fig-align="center"}
+
+## What Is the Mongol Rally? {style="text-align: left"}
+
+The Mongol Rally is the most ill-advised motoring adventure on Earth. It’s 10,000 miles of mechanical mayhem across mountains, deserts, and back roads—if you’re lucky. There’s no support, no set route, and absolutely no promise you’ll make it to the end. All you get is a beat-up car, a lot of duct tape, and the wide, wild world. It’s absurd. It’s anarchic. It’s glorious.
+
+## Our Route {style="text-align: left"}
+
+We’re starting where all great journeys should: a scrapyard outside Prague. From there, we’ll wind down the Adriatic coast through Croatia and on to Greece, then cut across to Istanbul. After that, it’s a wild push east: through the ancient cities of Iran, the burning sands of Turkmenistan and Uzbekistan, and the mountain passes of Kyrgyzstan. Five weeks later, if all goes to plan (it won’t), we’ll roll into the remote eastern peaks of Kazakhstan—triumphant, broken, and entirely changed.

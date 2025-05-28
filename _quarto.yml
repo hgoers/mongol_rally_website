@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "STAN BY ME"
+  title: "HAPPY HOUR DISCOVERISTS"
+  favicon: "img/mongol-rally-logo-1000px.png"
   navbar:
     right:
       - href: index.qmd
@@ -14,6 +15,7 @@ website:
         text: Route
       - href: blog.qmd
         text: Blog
+    tools:
       - icon: instagram
         href: https://www.instagram.com/happyhourdiscovery/
         aria-label: Instagram
