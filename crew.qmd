@@ -1,0 +1,45 @@
+---
+title: ""
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+# THE CREW {style="text-align: center"}
+
+::::::: grid
+::: g-col-3
+![Jez](img/Jez.jpg){fig-align="center"}
+:::
+
+::: g-col-3
+![Haz](img/Harriet.jpg){fig-align="center"}
+:::
+
+::: g-col-3
+![Sky](img/Sky.jpg){fig-align="center"}
+:::
+
+::: g-col-3
+![Dec](img/Declan.jpg){fig-align="center"}
+:::
+:::::::
+
+::::::: grid
+::: g-col-3
+![Niels](img/Niels.jpg){fig-align="center"}
+:::
+
+::: g-col-3
+![Tom](img/Tom.jpg){fig-align="center"}
+:::
+
+::: g-col-3
+![Paddy](img/Paddy.jpg){fig-align="center"}
+:::
+
+::: g-col-3
+![Molly](img/Molly.jpg){fig-align="center"}
+:::
+:::::::

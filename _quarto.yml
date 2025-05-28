@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "STAN BY ME"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: crew.qmd
+        text: Crew
+      - href: route.qmd
+        text: Route
+      - href: blog.qmd
+        text: Blog
+      - icon: instagram
+        href: https://www.instagram.com/happyhourdiscovery/
+        aria-label: Instagram
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    
+body-header: |
+  ::::{.column-screen}
+  ![](/img/Mongol-Rally-Bridge.jpg)
+  ::::
+
+editor: visual
+

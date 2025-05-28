@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stan By Me",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "crew.html",
+    "href": "crew.html",
+    "title": "THE CREW",
+    "section": "",
+    "text": "THE CREW\n\n\n\n\n\nJez\n\n\n\n\n\n\n\nHaz\n\n\n\n\n\n\n\nSky\n\n\n\n\n\n\n\nDec\n\n\n\n\n\n\n\n\n\nNiels\n\n\n\n\n\n\n\nTom\n\n\n\n\n\n\n\nPaddy\n\n\n\n\n\n\n\nMolly"
+  },
+  {
+    "objectID": "route.html",
+    "href": "route.html",
+    "title": "THE ROUTE",
+    "section": "",
+    "text": "THE ROUTE"
+  },
+  {
+    "objectID": "start.html",
+    "href": "start.html",
+    "title": "GETTING TO THE START",
+    "section": "",
+    "text": "GETTING TO THE START"
+  }
+]
